@@ -1,0 +1,16 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\bin\Debug\Lab6.3.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\bin\Debug\Lab6.3.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\bin\Debug\Lab6.3.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\obj\Debug\Lab6.3.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab6.3\Lab6.3\obj\Debug\Lab6.3.pdb
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\bin\Debug\Lab6.3.exe.config
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\bin\Debug\Lab6.3.exe
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\bin\Debug\Lab6.3.pdb
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\obj\Debug\Lab6.3.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\obj\Debug\Lab6.3.exe
+C:\Users\Goga\Desktop\Lab6.3\Lab6.3\obj\Debug\Lab6.3.pdb
