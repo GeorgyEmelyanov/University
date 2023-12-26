@@ -1,0 +1,11 @@
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\bin\Debug\LabWF3.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\bin\Debug\LabWF3.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\bin\Debug\LabWF3.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF3\LabWF3\obj\Debug\LabWF3.pdb
