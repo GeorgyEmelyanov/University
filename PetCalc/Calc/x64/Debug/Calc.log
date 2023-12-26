@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\MyForm.h(240,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\MyForm.h(241,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calc.vcxproj -> C:\Users\Goga\Desktop\Мой проект\Calc\x64\Debug\Calc.exe

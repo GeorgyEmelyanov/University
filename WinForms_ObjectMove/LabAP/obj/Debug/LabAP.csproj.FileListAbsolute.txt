@@ -1,0 +1,22 @@
+C:\Users\Goga\Desktop\LabAP\LabAP\bin\Debug\LabAP.exe.config
+C:\Users\Goga\Desktop\LabAP\LabAP\bin\Debug\LabAP.exe
+C:\Users\Goga\Desktop\LabAP\LabAP\bin\Debug\LabAP.pdb
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.Form1.resources
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.Properties.Resources.resources
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.exe
+C:\Users\Goga\Desktop\LabAP\LabAP\obj\Debug\LabAP.pdb
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\bin\Debug\LabAP.exe.config
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\bin\Debug\LabAP.exe
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\bin\Debug\LabAP.pdb
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.Form1.resources
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.Properties.Resources.resources
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.exe
+C:\Users\Goga\Desktop\заказы\задания лохов\LabAP\LabAP\obj\Debug\LabAP.pdb

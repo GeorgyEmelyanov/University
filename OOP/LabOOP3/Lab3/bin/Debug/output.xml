@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee xsi:type="HourEmployee">
+    <Fio>Емельянов Георгий</Fio>
+    <DateOfBirth>2022-12-14T00:00:00+05:00</DateOfBirth>
+    <ID>1</ID>
+    <HourSalary>600</HourSalary>
+  </Employee>
+  <Employee xsi:type="HourEmployee">
+    <Fio>Емельянова Ольга</Fio>
+    <DateOfBirth>2022-12-14T00:00:00+05:00</DateOfBirth>
+    <ID>2</ID>
+    <HourSalary>800</HourSalary>
+  </Employee>
+  <Employee xsi:type="MonthEmployee">
+    <Fio>Мушкарина Вероника</Fio>
+    <DateOfBirth>2022-12-14T00:00:00+05:00</DateOfBirth>
+    <ID>3</ID>
+    <MonthSalary>80000</MonthSalary>
+  </Employee>
+  <Employee xsi:type="MonthEmployee">
+    <Fio>Петров Павел</Fio>
+    <DateOfBirth>2022-12-14T00:00:00+05:00</DateOfBirth>
+    <ID>4</ID>
+    <MonthSalary>120000</MonthSalary>
+  </Employee>
+  <Employee xsi:type="MonthEmployee">
+    <Fio>Емельянова Лилия</Fio>
+    <DateOfBirth>2022-12-14T00:00:00+05:00</DateOfBirth>
+    <ID>5</ID>
+    <MonthSalary>200000</MonthSalary>
+  </Employee>
+  <Employee xsi:type="MonthEmployee">
+    <Fio>123</Fio>
+    <DateOfBirth>2002-02-02T00:00:00</DateOfBirth>
+    <ID>6</ID>
+    <MonthSalary>900000</MonthSalary>
+  </Employee>
+</ArrayOfEmployee>

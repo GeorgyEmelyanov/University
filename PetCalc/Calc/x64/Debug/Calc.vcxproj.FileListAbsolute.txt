@@ -1,0 +1,8 @@
+C:\Users\Гогич\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\Гогич\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Гогич\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.MyForm.resources
+C:\Users\Гогич\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.MyForm.resources
+C:\Users\Goga\Desktop\Мой проект\Calc\Calc\x64\Debug\Calc.vcxproj.GenerateResource.cache

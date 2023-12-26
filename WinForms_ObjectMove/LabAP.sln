@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAP", "LabAP\LabAP.csproj", "{CABD7401-5AD9-4722-BE10-3FD10B26AC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABD7401-5AD9-4722-BE10-3FD10B26AC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABD7401-5AD9-4722-BE10-3FD10B26AC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABD7401-5AD9-4722-BE10-3FD10B26AC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABD7401-5AD9-4722-BE10-3FD10B26AC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2EAE99A-EB5D-47BC-BEE2-3FF6ADE1FF53}
+	EndGlobalSection
+EndGlobal
