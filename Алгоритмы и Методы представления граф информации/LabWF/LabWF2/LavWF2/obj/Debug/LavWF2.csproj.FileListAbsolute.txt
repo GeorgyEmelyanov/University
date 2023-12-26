@@ -1,0 +1,11 @@
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\bin\Debug\LavWF2.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\bin\Debug\LavWF2.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\bin\Debug\LavWF2.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LavWF2\LavWF2\obj\Debug\LavWF2.pdb

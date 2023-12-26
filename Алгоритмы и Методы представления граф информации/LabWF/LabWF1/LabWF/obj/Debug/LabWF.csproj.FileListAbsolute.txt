@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\LabWF\LabWF\bin\Debug\LabWF.exe.config
+C:\Users\student\Desktop\LabWF\LabWF\bin\Debug\LabWF.exe
+C:\Users\student\Desktop\LabWF\LabWF\bin\Debug\LabWF.pdb
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.Form1.resources
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.Properties.Resources.resources
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.exe
+C:\Users\student\Desktop\LabWF\LabWF\obj\Debug\LabWF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\bin\Debug\LabWF.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\bin\Debug\LabWF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\bin\Debug\LabWF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabWF\LabWF\obj\Debug\LabWF.pdb
