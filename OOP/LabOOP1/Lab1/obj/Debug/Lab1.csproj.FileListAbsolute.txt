@@ -1,0 +1,16 @@
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Гогич\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Goga\Desktop\Прога\Lab1\Lab1\obj\Debug\Lab1.pdb
