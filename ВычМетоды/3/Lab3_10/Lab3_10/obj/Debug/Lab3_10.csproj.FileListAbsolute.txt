@@ -1,8 +1,0 @@
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\bin\Debug\Lab3_10.exe.config
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\bin\Debug\Lab3_10.exe
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\bin\Debug\Lab3_10.pdb
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\obj\Debug\Lab3_10.csproj.AssemblyReference.cache
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\obj\Debug\Lab3_10.csproj.SuggestedBindingRedirects.cache
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\obj\Debug\Lab3_10.csproj.CoreCompileInputs.cache
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\obj\Debug\Lab3_10.exe
-C:\Users\Goga\Desktop\ВМ решения\3\Lab3_10\Lab3_10\obj\Debug\Lab3_10.pdb
