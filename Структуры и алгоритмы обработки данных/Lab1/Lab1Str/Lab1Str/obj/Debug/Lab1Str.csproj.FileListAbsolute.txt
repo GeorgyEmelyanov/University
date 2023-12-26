@@ -1,0 +1,8 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\bin\Debug\Lab1Str.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\bin\Debug\Lab1Str.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\bin\Debug\Lab1Str.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\obj\Debug\Lab1Str.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\obj\Debug\Lab1Str.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\obj\Debug\Lab1Str.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\obj\Debug\Lab1Str.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Str\Lab1Str\obj\Debug\Lab1Str.pdb

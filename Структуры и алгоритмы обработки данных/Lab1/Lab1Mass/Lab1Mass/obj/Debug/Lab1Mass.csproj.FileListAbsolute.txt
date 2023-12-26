@@ -1,0 +1,8 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\bin\Debug\Lab1Mass.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\bin\Debug\Lab1Mass.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\bin\Debug\Lab1Mass.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\obj\Debug\Lab1Mass.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\obj\Debug\Lab1Mass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\obj\Debug\Lab1Mass.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\obj\Debug\Lab1Mass.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab1Mass\Lab1Mass\obj\Debug\Lab1Mass.pdb

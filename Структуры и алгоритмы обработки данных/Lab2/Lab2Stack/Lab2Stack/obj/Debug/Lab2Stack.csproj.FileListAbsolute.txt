@@ -1,0 +1,16 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\bin\Debug\Lab2Stack.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab2\Lab2Stack\Lab2Stack\obj\Debug\Lab2Stack.pdb

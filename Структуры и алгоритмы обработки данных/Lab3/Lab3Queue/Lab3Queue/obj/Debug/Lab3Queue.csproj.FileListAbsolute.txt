@@ -1,0 +1,8 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\obj\Debug\Lab3Queue.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\obj\Debug\Lab3Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\obj\Debug\Lab3Queue.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\bin\Debug\Lab3Queue.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\bin\Debug\Lab3Queue.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\bin\Debug\Lab3Queue.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\obj\Debug\Lab3Queue.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Queue\Lab3Queue\obj\Debug\Lab3Queue.pdb

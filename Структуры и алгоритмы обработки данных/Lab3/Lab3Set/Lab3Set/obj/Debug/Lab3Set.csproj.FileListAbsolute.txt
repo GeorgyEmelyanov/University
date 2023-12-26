@@ -1,0 +1,8 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\bin\Debug\Lab3Set.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\bin\Debug\Lab3Set.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\bin\Debug\Lab3Set.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\obj\Debug\Lab3Set.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\obj\Debug\Lab3Set.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\obj\Debug\Lab3Set.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\obj\Debug\Lab3Set.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab3\Lab3Set\Lab3Set\obj\Debug\Lab3Set.pdb
