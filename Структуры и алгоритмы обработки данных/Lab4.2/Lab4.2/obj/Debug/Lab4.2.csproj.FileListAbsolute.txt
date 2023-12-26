@@ -1,0 +1,8 @@
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\Goga\Desktop\Структуры и алгоритмы обработки данных\Lab4.2\Lab4.2\obj\Debug\Lab4.2.pdb
