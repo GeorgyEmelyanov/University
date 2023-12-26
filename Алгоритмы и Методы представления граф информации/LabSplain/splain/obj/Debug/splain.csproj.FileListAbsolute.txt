@@ -1,0 +1,22 @@
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\bin\Debug\splain.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\bin\Debug\splain.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\bin\Debug\splain.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\splain\splain\obj\Debug\splain.pdb
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\bin\Debug\splain.exe.config
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\bin\Debug\splain.exe
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\bin\Debug\splain.pdb
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.Form1.resources
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.Properties.Resources.resources
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.exe
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabSplain\splain\obj\Debug\splain.pdb
