@@ -1,0 +1,44 @@
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\bin\Debug\LabAFF.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\bin\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\bin\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAFF\LabAFF\obj\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\bin\Debug\LabAFF.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\bin\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\bin\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZ\LabAFF\obj\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.exe.config
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.Form1.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.Properties.Resources.resources
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.exe.config
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\bin\Debug\LabAFF.pdb
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.Form1.resources
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.Properties.Resources.resources
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.GenerateResource.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.csproj.CoreCompileInputs.cache
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.exe
+C:\Users\Goga\Desktop\семестр 4\Алгоритмы и Методы представления граф информации\LabAZtryFix\LabAFF\obj\Debug\LabAFF.pdb
