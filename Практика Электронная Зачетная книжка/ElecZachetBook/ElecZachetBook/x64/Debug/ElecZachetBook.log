@@ -1,0 +1,33 @@
+﻿  AddWindow.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\AddWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+  Discipline.cpp
+  DisciplineManager.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.cpp(37,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.cpp(43,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.cpp(48,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.cpp(53,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  EditWindow.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\EditWindow.h(21,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+  MainWindow.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\AddWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\SearchWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\RemoveWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\EditWindow.h(21,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\MainWindow.h(23,28): warning C4677: discmanMain: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+  RemoveWindow.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\RemoveWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+  SearchWindow.cpp
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\SearchWindow.h(20,28): warning C4677: discman: сигнатура члена, не являющегося частным, содержит частный тип сборки "DisciplineManager"
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\DisciplineManager.h(12,11): message : см. объявление "DisciplineManager"
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  AddWindow.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ElecZachetBook.vcxproj -> C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\x64\Debug\ElecZachetBook.exe

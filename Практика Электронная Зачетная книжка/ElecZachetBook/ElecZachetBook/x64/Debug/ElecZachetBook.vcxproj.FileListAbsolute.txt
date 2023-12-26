@@ -1,0 +1,16 @@
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.AddWindow.resources
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.EditWindow.resources
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.MainWindow.resources
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.RemoveWindow.resources
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.SearchWindow.resources
+C:\Users\Goga\Desktop\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.GenerateResource.cache
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.AssemblyReference.cache
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.AddWindow.resources
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.EditWindow.resources
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.MainWindow.resources
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.RemoveWindow.resources
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.SearchWindow.resources
+C:\Users\Goga\Desktop\семестр 4\Практика\ElecZachetBook\ElecZachetBook\x64\Debug\ElecZachetBook.vcxproj.GenerateResource.cache
